@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.openbrowser.OpenrowserTest" duration-ms="38546" started-at="2018-09-28T11:41:37Z" finished-at="2018-09-28T11:42:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38546" started-at="2018-09-28T11:41:37Z" finished-at="2018-09-28T11:42:15Z">
+      <class name="com.openbrowser.OpenrowserTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.openbrowser.OpenrowserTest@19b4d0f]" name="openBrowser" duration-ms="38527" started-at="2018-09-28T17:11:37Z" finished-at="2018-09-28T17:12:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- com.openbrowser.OpenrowserTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.openbrowser.OpenrowserTest -->
+</testng-results>
